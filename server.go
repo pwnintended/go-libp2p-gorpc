@@ -70,7 +70,7 @@ import (
 	"github.com/libp2p/go-libp2p/core/protocol"
 
 	logging "github.com/ipfs/go-log/v2"
-	stats "github.com/pwnintended/go-libp2p-gorpc/stats"
+	stats "github.com/libp2p/go-libp2p-gorpc/stats"
 )
 
 // ContextKey is special type for using as a key with context.Context

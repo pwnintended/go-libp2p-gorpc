@@ -10,7 +10,7 @@ import (
 	"github.com/libp2p/go-libp2p/core/peer"
 	"github.com/libp2p/go-libp2p/core/protocol"
 
-	stats "github.com/pwnintended/go-libp2p-gorpc/stats"
+	stats "github.com/libp2p/go-libp2p-gorpc/stats"
 )
 
 // ClientOption allows for functional setting of options on a Client.

@@ -15,7 +15,7 @@ import (
 	"github.com/libp2p/go-libp2p/core/peer"
 	"github.com/libp2p/go-libp2p/core/protocol"
 
-	gorpc "github.com/pwnintended/go-libp2p-gorpc"
+	gorpc "github.com/libp2p/go-libp2p-gorpc"
 
 	multiaddr "github.com/multiformats/go-multiaddr"
 )
