@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p-gorpc
+module github.com/pwnintended/go-libp2p-gorpc
 
 go 1.20
 
